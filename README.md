@@ -1,10 +1,10 @@
 # Warthog_ECU_Classic
   - DIY after market ECU based on the Speeduino V0.3 board (ongoing design, fabrication & testing).
 
-  - The WARTHOG Classic ECU is designed primarily for Classic Mini engines,
+  - The WARTHOG Classic is a credit card size ECU designed primarily for Classic Mini engines,
   - but can also run 4 port injector with single CAM sensor, no VVT engines
-  - (in paired injectors mode and wasted spark mode).
-  - Due to the very small form factor some features have been swaped for some others,
+  - (in paired injectors mode & wasted spark).
+  - Due to the very small form factor some features have been droped for some others,
   - therefor it lakes a VR conditionner and also knock and flex iinputs.
   -
   - Here are the available INPUTS & OUTPUTS
@@ -14,7 +14,7 @@
   - Battery negative
   - ACC
   - TPS, IAC, CLS, CAM, CRANK, O2
-  - Onbaord MAP & Baro sensor
+  - Onbaord MAP & Baro sensors
   -
   - OUTPUTS
   - 2 High amperage low impedance injectors drivers
