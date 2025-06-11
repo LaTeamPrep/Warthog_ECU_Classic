@@ -1,5 +1,5 @@
 # Warthog_ECU_Classic
-  - DIY after market ECU based on the Speeduino V0.3 board.
+  - DIY after market ECU based on the Speeduino V0.3 board (ongoing design, fabrication & testing).
 
   - The WARTHOG Classic ECU is designed primarily for Classic Mini engines,
   - but can also run 4 port injector with single CAM sensor, no VVT engines
