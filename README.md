@@ -4,7 +4,7 @@
   - The WARTHOG Classic is a credit card size ECU designed primarily for Classic Mini engines,
   - but can also run 4 port injector with single CAM sensor, no VVT engines
   - (in paired injectors mode & wasted spark).
-  - Due to the very small form factor some features have been droped for some others,
+  - Due to the very small form factor some features have been droped to the benefit of others,
   - therefor it lakes a VR conditionner and also knock and flex iinputs.
   -
   - Here are the available INPUTS & OUTPUTS
